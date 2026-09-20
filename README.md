@@ -7,7 +7,7 @@
 />
 </a>
 
-<img src="./폰트픽-나는똥개벌레.gif  " width="300">
+<img src="./iamnotbug.gif  " width="300">
 
 <b>Languages</b><br>
 <img src="https://img.shields.io/badge/Python-EFA5C4?style=flat&logo=python&logoColor=4A3540">
