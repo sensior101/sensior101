@@ -7,7 +7,7 @@
 />
 </a>
 
-![Seohyun's GitHub stats](https://github-stats-extended.vercel.app/api?username=sensior101&show_icons=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_color=000000)
+<img src="https://github-stats-extended.vercel.app/api?username=sensior101&show_icons=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_color=000000" width="600">
 
 <h2>🛠️ Tech Stack</h2>
 
