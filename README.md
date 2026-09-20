@@ -1,6 +1,4 @@
 <img src="./iambug.gif  " width="300">
-<br>
-<br>
 <img src="https://render.gitanimals.org/farms/sensior101?v=2" width="600" height="300">
 <br>
 <br>
