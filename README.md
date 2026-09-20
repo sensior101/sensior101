@@ -7,8 +7,8 @@
 />
 </a>
 
-<h2>✿ 나는 똥개벌레 ✿</h2>
-  <sub>₊˚⊹♡ 🐛 ♡⊹˚₊</sub>
+<h2>⌗ 나는 똥개벌레.exe</h2>
+<sub>✦ loading personality... ░░░░░░░░░░</sub>
 
 <h2>🛠️ Tech Stack</h2>
 
