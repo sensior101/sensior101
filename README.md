@@ -1,9 +1,20 @@
 # 🐾 GitHub Pet House
 
-🐣 My GitHub pets are growing with my contributions!
+<div align="center">
+
+<img src="./github_pet_cat_lv1.png" width="180">
+
+### 🐱 White Cat
+**Lv.1**
+
+</div>
 
 ---
 
 ### 🐾 My Pets
 
-Coming soon...
+| Pet | Level | EXP |
+|:---:|:---:|:---:|
+| 🐱 White Cat | Lv.1 | 0 EXP |
+
+> 💻 Commit to raise your pet!
