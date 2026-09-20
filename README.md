@@ -18,3 +18,4 @@
 | 🐱 White Cat | Lv.1 | 0 EXP |
 
 > 💻 Commit to raise your pet!
+
