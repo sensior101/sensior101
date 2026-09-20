@@ -7,6 +7,8 @@
 />
 </a>
 
+![Seohyun's GitHub stats](https://github-stats-extended.vercel.app/api?username=sensior101&show_icons=true)
+
 <h2>🛠️ Tech Stack</h2>
 
 <b>Languages</b><br>
