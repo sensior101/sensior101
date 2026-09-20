@@ -4,6 +4,7 @@
 <img src="https://render.gitanimals.org/farms/sensior101?v=2" width="600" height="300">
 <br>
 <br>
+
 <b>Languages</b><br>
 <img src="https://img.shields.io/badge/Python-EFA5C4?style=flat&logo=python&logoColor=4A3540">
 <img src="https://img.shields.io/badge/C-F5BDD4?style=flat&logo=c&logoColor=4A3540">
