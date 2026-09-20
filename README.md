@@ -7,10 +7,13 @@
 />
 </a>
 
-![most languages](https://github-readme-stats.vercel.app/api/top-langs/?username={github_sensior101}&layout=compact)
- 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username={github_sensior101}&show_icons=true&theme=radical)
+<div align="center">
 
+<h1>୨୧ 나는 똥개벌레 ୨୧</h1>
+
+<sub>✦ ⋆ ˚｡⋆୨୧˚　🐛　˚୨୧⋆｡˚ ⋆ ✦</sub>
+
+</div>
 
 <h2>🛠️ Tech Stack</h2>
 
