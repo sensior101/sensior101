@@ -1,9 +1,5 @@
-<img src="https://render.gitanimals.org/farms/sensior101?v=2" width="600" height="300">
-<br>
-<br>
-<br>
-<br>
 <img src="./iambug.gif  " width="300">
+<img src="https://render.gitanimals.org/farms/sensior101?v=2" width="600" height="300">
 
 <b>Languages</b><br>
 <img src="https://img.shields.io/badge/Python-EFA5C4?style=flat&logo=python&logoColor=4A3540">
