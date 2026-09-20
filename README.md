@@ -7,7 +7,7 @@
 />
 </a>
 
-<img src="https://github-stats-extended.vercel.app/api?username=sensior101&amp;show_icons=true&amp;bg_color=E5E5E5&amp;title_color=000000&amp;text_color=000000&amp;icon_color=000000&amp;border_color=000000&amp;border_radius=12" width="600">
+<img src="https://github-stats-extended.vercel.app/api?username=sensior101&amp;show_icons=true&amp;bg_color=F0F0F0&amp;title_color=000000&amp;text_color=000000&amp;icon_color=000000&amp;border_color=000000&amp;border_radius=12" width="600">
 
 <h2>🛠️ Tech Stack</h2>
 
