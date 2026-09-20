@@ -6,7 +6,8 @@
   bg-color="green"
 />
 </a>
-
+<br>
+<br>
 <img src="./iamnotbug.gif  " width="300">
 
 <b>Languages</b><br>
