@@ -12,7 +12,7 @@
 ### Languages
 ![Python](https://img.shields.io/badge/Python-EFA5C4?style=for-the-badge&logo=python&logoColor=4A3540)
 ![C](https://img.shields.io/badge/C-F5BDD4?style=for-the-badge&logo=c&logoColor=4A3540)
-![C#](https://img.shields.io/badge/C%23-FBE0EB?style=for-the-badge&logo=csharp&logoColor=4A3540)
+![C#](https://img.shields.io/badge/C%23-FBE0EB?style=for-the-badge&logo=sharp&logoColor=4A3540)
 
 ### AI & Data Science
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-9BD5F0?style=for-the-badge&logo=tensorflow&logoColor=274454)
