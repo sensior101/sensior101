@@ -8,6 +8,8 @@
 </a>
 <br>
 <br>
+<br>
+<br>
 <img src="./iamnotbug.gif  " width="300">
 
 <b>Languages</b><br>
